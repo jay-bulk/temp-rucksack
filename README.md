@@ -16,4 +16,6 @@ Add productivity list:
 why? --> https://www.youtube.com/watch?v=7Z9-Ry4yGNc
 [alt-tab](alt-tab-macos.netlify.com)
 [warp.dev](warp.dev)
+[hyper](github.com/craftzdog/hyper)
+
 [](rectangleapp.com)
