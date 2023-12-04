@@ -1,0 +1,11 @@
+{
+  "name": "temp-rucksack",
+  "version": "0.0.1",
+  "description": "temporary rucksack in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rhettjay",
+  "license": "MIT"
+}
