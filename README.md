@@ -13,9 +13,15 @@ Add productivity list:
 [maccy](https://maccy.app/)
 [rectangle](rectangleapp.com)
 [amethyst?](ianyh.com/amethyst/)
+X[alfred?] - I didn't find this actually boosted my productivity that much
+X[raycast?] - I didn't find this actually boosted my productivity that much
 why? --> https://www.youtube.com/watch?v=7Z9-Ry4yGNc
 [alt-tab](alt-tab-macos.netlify.com)
-[warp.dev](warp.dev)
+X[warp.dev](warp.dev)
 [hyper](github.com/craftzdog/hyper)
 
-[](rectangleapp.com)
+Homebrew Tools
+fzf
+eza
+nvim
+
